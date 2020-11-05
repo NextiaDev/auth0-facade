@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{auth0_facade}
-  s.version = "0.1.4"
+  s.version = "0.1.5"
   s.date = %q{2020-11-05}
   s.summary = %q{Facade pattern implementation for the Auth0 APIs}
   s.files = [
